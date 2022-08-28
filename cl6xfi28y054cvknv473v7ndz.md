@@ -42,8 +42,7 @@ GPT-3, a language model, was made available by OpenAI in June 2020. This model i
 3. Copilot occasionally generates code that contains partial errors.
 4. Your code is exposed to and stored by other humans.
 
-
-### If you have insights or questions, please leave them in the comments!
+## If you have insights or questions, please leave them in the comments!
 
 
   
