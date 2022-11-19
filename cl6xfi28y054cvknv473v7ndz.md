@@ -1,4 +1,4 @@
-## GITHUB COPILOT: A Boon Or A Bane?
+# GITHUB COPILOT: A Boon Or A Bane?
 
 # What is, and how does GitHub Copilot operate?
 GPT-3, a language model, was made available by OpenAI in June 2020. This model is very good at understanding natural language and, surprisingly, has some coding abilities despite not having been trained on code. Following this discovery, OpenAI created Codex. Codex is another GPT language model with fewer parameters—it runs faster but is less flexible than GPT-3, more memory – it can read more and grasp context better, and it was trained and fine-tuned using code examples from GitHub and Stack Exchange.
@@ -42,7 +42,7 @@ GPT-3, a language model, was made available by OpenAI in June 2020. This model i
 3. Copilot occasionally generates code that contains partial errors.
 4. Your code is exposed to and stored by other humans.
 
-## If you have insights or questions, please leave them in the comments!
+# If you have insights or questions, please leave them in the comments!
 
 
   
