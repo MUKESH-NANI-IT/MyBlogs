@@ -29,6 +29,8 @@ Graphic design is an incredibly important field that plays a role in nearly ever
 
 Geometric shapes and patterns are often used in graphic design to create interesting and eye-catching visuals. Common geometric shapes used in graphic design include squares, circles, triangles, and rectangles. Patterns can be created with these shapes, as well as with lines, dots, and other shapes. Geometric shapes and patterns can be used to create balance, unity, and direction in a design, as well as to create a sense of movement and rhythm. They can be used to create a sense of harmony and order, or to create a sense of complexity and chaos. Geometric shapes and patterns can also be used to create a focal point or to add depth and dimension to a design.
 
+%[https://twitter.com/Yassergraphics_/status/1601653552711360514?s=20&t=i_maWgAtBiOuUZCOfYdmLg] 
+
 ### **Retro and Vintage Design:**
 
 It is a style of graphic design that evokes feelings of nostalgia and reminiscence of bygone eras. This style of design is often characterized by vibrant colors, bold typefaces, and a mix of various design elements from different time periods. Retro and vintage designs often include a blend of classic and modern ideas, creating a unique and timeless design aesthetic. This style of design is often used in branding, packaging, advertising, and other forms of visual communication.
@@ -51,7 +53,7 @@ Color blocking is a popular graphic design technique used to create visual inter
 
 ### **Isometric Illustrations:**
 
-Isometric illustrations are graphic design illustrations that depict three-dimensional objects in two dimensions. They are often used to add visual interest and detail to a design. Isometric illustrations can be used to illustrate complex systems or products, to showcase products uniquely, or to add a playful or retro feel to a design. Isometric illustrations can be simple, like a cube, or complex, like a building or a machine. They are often used in the fields of architecture, engineering, and science.
+Isometric illustrations are graphic design illustrations that depict three-dimensional objects in two dimensions. They are often used to add visual interest and detail to a design. Isometric illustrations can illustrate complex systems or products, showcase products uniquely, or add a playful or retro feel to a design. Isometric illustrations can be simple, like a cube, or complex, like a building or a machine. They are often used in the fields of architecture, engineering, and science.
 
 **Gradients:**  
 Gradients can be used to create a variety of effects in graphic design, from subtle transitions between colors to a vibrant and dynamic look. In most cases, a gradient is created by blending two or more colors together. This is done by gradually changing the color of one color to another, usually over a defined area. This can be done to create an ombre effect, a shadow effect, or simply to add a more vibrant feel to a design. Gradients can be used to help draw the eye to an area of the design, or to create a sense of depth and movement. Additionally, gradients can be used to create an interesting background or to provide a subtle texture to a design.
@@ -62,7 +64,7 @@ Duotone is a term used in graphic design to describe a two-color halftone reprod
 
 ### **Custom Shapes and Icons:**
 
-Custom shapes and icons can be used in graphic design to add visual interest and focus to a design. They can also be used to create a memorable logo or brand identity, or to convey a message that words cannot express. Custom shapes and icons can be created in a variety of ways, including hand drawing, vector drawing, or using a photo-editing program. Iconography is an important part of graphic design, as it can be used to quickly and effectively communicate a message or idea to viewers.
+Custom shapes and icons can be used in graphic design to add visual interest and focus to a design. They can also be used to create a memorable logo or brand identity or to convey a message that words cannot express. Custom shapes and icons can be created in a variety of ways, including hand drawing, vector drawing, or using a photo-editing program. Iconography is an important part of graphic design, as it can be used to quickly and effectively communicate a message or idea to viewers.
 
 # Tips:
 
@@ -72,7 +74,7 @@ This will help you stay current and ensure that your designs are modern and rele
 
 ### **Learn to use design software**:
 
-such as Adobe Photoshop, Illustrator, and InDesign. These are industry-standard tools that are essential for any graphic designer
+Such as Adobe Photoshop, Illustrator, and InDesign. These are industry-standard tools that are essential for any graphic designer
 
 ### **Stay organized**:
 
@@ -88,12 +90,22 @@ Design work can be demanding and stressful, so it's important to take care of yo
 
 # Insights in Graphic Designers:
 
-**Stay up-to-date with the latest trends**: Keeping up with the latest trends in the graphic design industry is important for staying competitive. Monitor industry blogs, magazines, and websites to get a sense of what the industry is doing and how you can use it to your advantage.
+### **Stay up-to-date with the latest trends**:
 
-**Invest in quality tools**: Investing in quality tools such as software, fonts, and stock images will help you create higher-quality designs and make your work stand out from the crowd.
+Keeping up with the latest trends in the graphic design industry is important for staying competitive. Monitor industry blogs, magazines, and websites to get a sense of what the industry is doing and how you can use it to your advantage.
 
-**Develop a unique style**: Developing and maintaining a unique style will help you stand out from the competition and provide potential clients with a sense of your skill set.
+### **Invest in quality tools**:
 
-**Network and collaborate**: Networking with other professionals, joining LinkedIn groups, and attending events are great ways to build relationships, gain exposure, and get inspired by other designers
+Investing in quality tools such as software, fonts, and stock images will help you create higher-quality designs and make your work stand out from the crowd.
 
-**Keep learning**: Never stop learning. Graphic design is constantly changing, so it is important to stay up-to-date with the latest techniques, technologies, and trends.
+### **Develop a unique style**:
+
+Developing and maintaining a unique style will help you stand out from the competition and provide potential clients with a sense of your skill set.
+
+### **Network and collaborate**:
+
+Networking with other professionals, joining LinkedIn groups, and attending events are great ways to build relationships, gain exposure, and get inspired by other designers
+
+### **Keep learning**:
+
+Never stop learning. Graphic design is constantly changing, so it is important to stay up-to-date with the latest techniques, technologies, and trends.
