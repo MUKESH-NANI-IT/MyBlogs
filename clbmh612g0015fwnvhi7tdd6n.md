@@ -39,7 +39,6 @@ These can be used in graphic design to add a personal touch and evoke a certain 
 
 ### **Minimalism:**
 
-  
 Minimalism in graphic design is a style that uses an extremely simple and clean visual aesthetic, often with limited colors and minimal use of images and text. This style is often used to convey a message or create a certain atmosphere without overloading the viewer with too much information. It is also used to create a sense of focus or to make a design stand out from its competitors.
 
 ### **Bold Typography:**
@@ -89,14 +88,12 @@ Design work can be demanding and stressful, so it's important to take care of yo
 
 ## Insights for Creatives in Graphic Designers:
 
-1.  **Stay up-to-date with the latest trends**: Keeping up with the latest trends in the graphic design industry is important for staying competitive. Monitor industry blogs, magazines, and websites to get a sense of what the industry is doing and how you can use it to your advantage.
-    
-2.  **Invest in quality tools**: Investing in quality tools such as software, fonts, and stock images will help you create higher-quality designs and make your work stand out from the crowd.
-    
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670950566647/-WZBTbmSw.png align="center")
-    
-3.  **Develop a unique style**: Developing and maintaining a unique style will help you stand out from the competition and provide potential clients with a sense of your skill set.
-    
-4.  **Network and collaborate**: Networking with other professionals, joining LinkedIn groups, and attending events are great ways to build relationships, gain exposure, and get inspired by other designers
-    
-5.  **Keep learning**: Never stop learning. Graphic design is constantly changing, so it is important to stay up-to-date with the latest techniques, technologies, and trends.
+**Stay up-to-date with the latest trends**: Keeping up with the latest trends in the graphic design industry is important for staying competitive. Monitor industry blogs, magazines, and websites to get a sense of what the industry is doing and how you can use it to your advantage.
+
+**Invest in quality tools**: Investing in quality tools such as software, fonts, and stock images will help you create higher-quality designs and make your work stand out from the crowd.
+
+**Develop a unique style**: Developing and maintaining a unique style will help you stand out from the competition and provide potential clients with a sense of your skill set.
+
+**Network and collaborate**: Networking with other professionals, joining LinkedIn groups, and attending events are great ways to build relationships, gain exposure, and get inspired by other designers
+
+**Keep learning**: Never stop learning. Graphic design is constantly changing, so it is important to stay up-to-date with the latest techniques, technologies, and trends.
