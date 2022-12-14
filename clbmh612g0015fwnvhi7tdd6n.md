@@ -86,7 +86,7 @@ In the world of design, things can change quickly. Be prepared to adapt to new i
 
 Design work can be demanding and stressful, so it's important to take care of yourself physically and mentally. Make sure to get enough sleep, exercise, and take breaks when you need them.
 
-## Insights for Creatives in Graphic Designers:
+# Insights in Graphic Designers:
 
 **Stay up-to-date with the latest trends**: Keeping up with the latest trends in the graphic design industry is important for staying competitive. Monitor industry blogs, magazines, and websites to get a sense of what the industry is doing and how you can use it to your advantage.
 
