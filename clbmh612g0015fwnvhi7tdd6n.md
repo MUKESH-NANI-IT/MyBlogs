@@ -1,7 +1,5 @@
 # Exploring the World of Graphic Design: Tips, Trends, and Insights for Creatives
 
-%[https://twitter.com/Yassergraphics_/status/1601653552711360514?s=20&t=i_maWgAtBiOuUZCOfYdmLg] 
-
 # Introduction:
 
 Graphic design is an incredibly important field that plays a role in nearly every aspect of our lives. From the packaging on the products, we buy to the signs we see in public, to the websites we visit and the apps we use on our phones, graphic design is everywhere.
@@ -28,8 +26,6 @@ Graphic design is an incredibly important field that plays a role in nearly ever
 ### **Geometric Shapes and Patterns:**
 
 Geometric shapes and patterns are often used in graphic design to create interesting and eye-catching visuals. Common geometric shapes used in graphic design include squares, circles, triangles, and rectangles. Patterns can be created with these shapes, as well as with lines, dots, and other shapes. Geometric shapes and patterns can be used to create balance, unity, and direction in a design, as well as to create a sense of movement and rhythm. They can be used to create a sense of harmony and order, or to create a sense of complexity and chaos. Geometric shapes and patterns can also be used to create a focal point or to add depth and dimension to a design.
-
-%[https://twitter.com/Yassergraphics_/status/1601653552711360514?s=20&t=i_maWgAtBiOuUZCOfYdmLg] 
 
 ### **Retro and Vintage Design:**
 
@@ -68,6 +64,8 @@ Custom shapes and icons can be used in graphic design to add visual interest and
 
 # Tips:
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671027062471/M8_FBYw80.png align="center")
+
 ### **Keep up with the latest design trends and technology**:
 
 This will help you stay current and ensure that your designs are modern and relevant.
@@ -89,6 +87,8 @@ In the world of design, things can change quickly. Be prepared to adapt to new i
 Design work can be demanding and stressful, so it's important to take care of yourself physically and mentally. Make sure to get enough sleep, exercise, and take breaks when you need them.
 
 # Insights in Graphic Designers:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671027081924/gxsH4qBlj.png align="center")
 
 ### **Stay up-to-date with the latest trends**:
 
