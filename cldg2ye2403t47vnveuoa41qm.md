@@ -1,6 +1,6 @@
 # Design Software's for Beginners: Unleash your Creativity
 
-### Introduction
+## Introduction
 
 "Welcome to the "Design Software" section of our blog series, where we'll be diving into the wild and wacky world of graphic design software! Whether you're a seasoned pro or just starting out, this section is packed with all the information you need to create designs that will make your friends and family say, "Wow, that's really something!"
 
@@ -12,7 +12,7 @@ So grab your design software, and get ready to take your designs to the next lev
 
 > "Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies and humors." - George Santayana
 
-### Overview of different design software programs available
+## Overview of different design software programs available
 
 When it comes to graphic design software, the options are endless and the possibilities are endless! Each software has its own unique set of features, capabilities, and strengths. But don't worry, we've narrowed down the choices for you. Here are some of the most popular design software programs, with a specific focus on Figma, Canva and Adobe Photoshop and Illustrator:
 
@@ -31,7 +31,7 @@ When it comes to graphic design software, the options are endless and the possib
 
 > "Design is thinking made visual." - Saul Bass
 
-### Tips for choosing the right software for your project
+## Tips for choosing the right software for your project
 
 When it comes to choosing the right design software for your project, there are a few key factors to consider:
 
@@ -52,7 +52,7 @@ When it comes to choosing the right design software for your project, there are 
 
 > "Good design is obvious. Great design is transparent." - Joe Sparano
 
-### Conclusion
+## Conclusion
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674916525844/2a1a852c-008f-458f-9da7-562139b9a3d8.png align="center")
 
